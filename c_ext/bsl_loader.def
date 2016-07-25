@@ -1,0 +1,5 @@
+LIBRARY   bsl_loader
+EXPORTS
+   loader_dealloc
+   loader_init
+   load_frame
